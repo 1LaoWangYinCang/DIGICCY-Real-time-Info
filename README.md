@@ -1,11 +1,15 @@
 # Jing-Ji-Bao
-Jing-Ji-Bao is an app for purchasing esports peripheral handlebars. We show cool and high-quality esports peripheral handlebars, so that people can efficiently purchase satisfactory and high-quality esports peripheral handlebars in their daily life. At the same time, our app also launches the game walkthrough function, so that you can know more about your favorite game and become a game expert.
 
-Our app has made a very detailed classification for these esports peripheral handhelds, including DNF handhelds, LOL handhelds, King of Glory handhelds, Jedi survival accessories, new product shelving handhelds and other esports peripheral handhelds. These complete categories of esports peripheral handhelds can meet users' selection and purchase.
+Jing-Ji-Bao is dedicated to promoting the classic nostalgic games consoles of the 1980s and 1990s so that people can purchase them efficiently and well in their daily life.
 
-Our APP also introduces each product in detail, so that you can fully understand these products, find your favorite esports peripheral operators, convenient for you to purchase and place orders. Our APP also has the function of product collection, which allows you to collect your favorite esports peripherals into the collection list, so that you can browse and place orders next time.
+- Our app is a shopping mall for classic nostalgic competitive game consoles. Users can find all kinds of classic nostalgic competitive game consoles from their childhood on our app.
 
-Our app also launches the game walkthrough function, through the detailed introduction of each game, let you know more about your favorite esports games, become esports expert.
+- Our app showcases a full range of retro gaming consoles, including plug-in card gaming consoles, retro handheld consoles, classic PSP games, joystick consoles, Tetris gaming consoles and more. These complete categories of nostalgic game consoles can meet the user's choice and purchase.
 
-Buy exquisite esports peripheral hand learning game strategy!
-If you have any questions, please contact us as follows :nudmd5@163.com
+- Our app has classified these nostalgic games in great detail, which helps users to quickly find the nostalgic games they want to buy.
+
+- Our app also has the commodity collection function, which allows you to add your favorite nostalgic competitive games to the collection list for your next browsing and placing orders.
+
+The 80's, 90's classic competitive game machine restore the original happiness!
+
+If you have any questions, please contact us as follows :zunb78@163.com 
