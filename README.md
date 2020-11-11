@@ -1,15 +1,11 @@
 # ZhiBoBa
 
-ZhiBoBa is an app to buy live broadcasting textbooks and learn the knowledge of live broadcasting. We show professional live broadcasting books and textbooks, so that people can efficiently buy professional live broadcasting textbooks and books in their daily life. At the same time, we can also learn the knowledge of live broadcasting on our app, so that you can have a better understanding of your live broadcasting industry and become a big fan of live broadcasting.
+ZhiBoBa is a secretary to buy live teaching material, the record book of APP, you can live on our APP quality efficiently books and textbooks, but also can record your comments after reading, recording their own reading after harvest and live experience, live live these tips can help you quickly improve skills, let you can master on the ropes.
 
-- Our app has classified these live broadcast textbooks in great detail, including live broadcast textbooks for e-commerce, e-sports live broadcast books, douyin live broadcast books, live broadcast skills training textbooks and other live broadcast textbooks. These complete categories of live broadcast textbooks and books can satisfy users' selection and purchase.
+Our app classifies these live broadcast books and textbooks in detail, including live broadcast textbooks for e-commerce, e-games, live broadcast books for mobile phones, live broadcast skills training textbooks and other live broadcast books. These complete categories of live broadcast books and teaching materials can meet the user's selection and purchase.
 
-- Our APP also introduces each book and textbook in detail, so that you can fully understand these books and textbooks, find your favorite live broadcast textbooks, and make it convenient for you to purchase and place an order.
+Our APP can record your reading experience, and the knowledge and skills you learn from the book can be recorded. Every time you read a book, you can record the harvest of the live broadcast, which greatly helps you to improve your live broadcast ability quickly.
 
-- Our app also has the book collection function, which allows you to collect your favorite live broadcast textbooks and books into the collection list, so that you can browse and place orders next time.
+Our APP can help you quickly learn the knowledge and skills of live streaming, so that you can quickly become a big fan of live streaming.
 
-- Our app also introduces the function of live broadcast knowledge, which enables you to have a better understanding of live broadcast through various detailed introductions of the live broadcast industry and become a big live broadcast celebrity.
-
-Buy live broadcast books and textbooks, learn live broadcast skills and knowledge, and become a big fan of live broadcast.
-
-If you have any questions, please contact us as follows :kceh69@163.com
+If you have any questions, please contact us as follows :bagskks@icloud.com
