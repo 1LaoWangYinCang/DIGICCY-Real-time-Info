@@ -1,6 +1,6 @@
-# Digiccy Real-time Info
+# DIGICCY Real-time Info
 
-Digiccy Real-time Info is an app that allows digital currency enthusiasts to learn to exchange and share information about the currency circle.
+DIGICCY Real-time Info is an app that allows digital currency enthusiasts to learn to exchange and share information about the currency circle.
 
 -Our app displays all kinds of digital currency news information, helps users get the latest currency circle news, and can comment, collect and share their favorite articles.
 
