@@ -1,6 +1,6 @@
-# DIGICCY Real-time Info
+# Dynamic Digital Info Zone
 
-DIGICCY Real-time Info is an app that allows digital currency enthusiasts to learn to exchange and share information about the currency circle.
+Dynamic Digital Info Zone is an app that allows digital currency enthusiasts to learn to exchange and share information about the currency circle.
 
 -Our app displays all kinds of digital currency news information, helps users get the latest currency circle news, and can comment, collect and share their favorite articles.
 
@@ -12,4 +12,4 @@ DIGICCY Real-time Info is an app that allows digital currency enthusiasts to lea
 
 Let you get real-time news and the latest market information in time.
 
-If you have any questions, please contact us as follows :stoughezchipv@hotmail.com
+If you have any questions, please contact us as follows :thathaovmt@hotmail.com
